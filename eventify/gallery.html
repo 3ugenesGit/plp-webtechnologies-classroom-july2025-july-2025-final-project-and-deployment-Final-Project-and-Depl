@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Eventify — Gallery</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="logo" href="index.html">Eventify<span class="accent">.</span></a>
+      <button id="nav-toggle" aria-expanded="false">☰</button>
+      <nav id="main-nav" class="nav" aria-hidden="true">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="gallery.html">Gallery</a></li>
+          <li><a href="contact.html" class="btn">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container gallery">
+    <h1>Event Gallery</h1>
+    <div class="grid gallery-grid">
+      <img src="images/gallery1.jpg" alt="Event photo" class="gallery-item">
+      <img src="images/gallery2.jpg" alt="Event photo" class="gallery-item">
+      <img src="images/gallery3.jpg" alt="Event photo" class="gallery-item">
+      <!-- <img src="images/gallery4.jpg" alt="Event photo" class="gallery-item"> -->
+      <!-- <img src="images/gallery5.jpg" alt="Event photo" class="gallery-item"> -->
+      <img src="images/gallery6.jpg" alt="Event photo" class="gallery-item">
+    </div>
+  </main>
+
+  <!-- Lightbox Modal -->
+  <div id="lightbox" class="lightbox hidden">
+    <span id="lightbox-close">&times;</span>
+    <img id="lightbox-img" src="" alt="Expanded image">
+  </div>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; <span id="year4"></span> Eventify.</p>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
