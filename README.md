@@ -7,7 +7,7 @@ Built with **HTML5, CSS3, and JavaScript**, the site demonstrates best practices
 
 ## 🌐 Live Demo
 
-👉 [View Deployed Site](#) _(replace with your GitHub Pages / Netlify / Vercel link)_
+👉 [View Deployed Site](#) _(https://3ugenesgit.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/index.html)_
 
 ## 📂 Project Structure
 
