@@ -12,7 +12,7 @@ Built with **HTML5, CSS3, and JavaScript**, the site demonstrates best practices
 ## 📂 Project Structure
 
 ```
-eventify/
+plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 ├─ index.html        # Home page
 ├─ about.html        # About page
 ├─ services.html     # Services page
@@ -42,12 +42,6 @@ eventify/
 ## 🚀 Deployment
 
 You can deploy Eventify for free using any static hosting service:
-
-### 1. Netlify
-
-1. Login at [Netlify](https://www.netlify.com/)
-2. Drag and drop your `eventify` folder into the dashboard
-3. Or connect your GitHub repo → Netlify auto-deploys on push
 
 ## 🛠️ Tech Stack
 
@@ -101,15 +95,14 @@ You can deploy Eventify for free using any static hosting service:
 
 ### Home Page
 
-![Home screenshot](images/home.jpg)
-![Home screenshot](images/hero_sshot.jpg)
+![Home screenshot](./images/home.jpg)
+![Home screenshot](./images/hero_sshot.jpg)
 
 ### Gallery
 
-![Gallery screenshot](images/gallery_sshot.jpg)
+![Gallery screenshot](./images/gallery_sshot.jpg)
 
 ## 📑 License
 
 This project is released under the **MIT License**.
 Feel free to use, modify, and share it for learning or real-world projects.
-
