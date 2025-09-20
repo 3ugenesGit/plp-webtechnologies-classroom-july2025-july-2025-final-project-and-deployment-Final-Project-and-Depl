@@ -101,14 +101,15 @@ You can deploy Eventify for free using any static hosting service:
 
 ### Home Page
 
-![Home screenshot](images/home.png)
-![Home screenshot](images/hero_sshot.png)
+![Home screenshot](images/home.jpg)
+![Home screenshot](images/hero_sshot.jpg)
 
 ### Gallery
 
-![Gallery screenshot](images/gallery_sshot.png)
+![Gallery screenshot](images/gallery_sshot.jpg)
 
 ## 📑 License
 
 This project is released under the **MIT License**.
 Feel free to use, modify, and share it for learning or real-world projects.
+
